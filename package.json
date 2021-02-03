@@ -1,0 +1,10 @@
+{
+  "name": "ChessBot",
+  "version": "1.0.0",
+  "dependencies": {
+    "eris": "^0.14.0"
+  },
+  "devDependencies": {
+    "eris": "^0.14.0"
+  }
+}
